@@ -32,7 +32,7 @@ Bash
 %cd nombre-del-repo
 
 
-2. Abre el Notebook: En el panel de archivos de la izquierda, navega a la carpeta ch_telecomX_parte2 y abre el archivo TelecomX_LATAM_parte2.ipynb
+2. Abre el Notebook: En el panel de archivos de la izquierda, navega a la carpeta ch_telecomX_parte2 y abre el archivo TelecomX_LATAM_parte2.ipynb.Si no abre el archivo directamente, descargalo en tu computadora y ejecutalo directamente, se abrirá el cuaderno en el entorno de Colab.
 
 3. Ejecuta las Celdas: Para asegurar la consistencia y el correcto flujo de los datos, ejecuta todas las celdas del notebook en orden secuencial (de arriba hacia abajo). La forma más fácil es ir al menú "Entorno de ejecución" y seleccionar "Ejecutar todo".
 
